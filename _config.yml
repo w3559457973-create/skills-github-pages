@@ -1,1 +1,5 @@
-theme:minima
+theme: _config.yml
+theme: minima
+title: w3559457973-create's personal blog
+discription: This is where I share cool stuff about my life
+author: w3559457973-create
